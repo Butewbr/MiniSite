@@ -236,8 +236,19 @@ nav.show div.icon-close {
   color: var(--title-color);
 }
 
+.logo div
+{
+  font: 400 1rem var(--body-font);
+  color: var(--base-color);
+}
+
 .logo span {
   color: var(--base-color);
+}
+
+.logo-alt div
+{
+  color: var(--text-color-light);
 }
 
 .logo-alt span {
