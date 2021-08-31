@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?p2wtjc');
+  src:  url('fonts/icomoon.eot?p2wtjc#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?p2wtjc') format('truetype'),
+    url('fonts/icomoon.woff?p2wtjc') format('woff'),
+    url('fonts/icomoon.svg?p2wtjc#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tree:before {
+  content: "\e904";
+}
+.icon-arrow-up:before {
+  content: "\e903";
+}
+.icon-computer_desk_desktop_furniture_home_icon:before {
+  content: "\e900";
+}
+.icon-closet_clothes_furniture_home_house_icon:before {
+  content: "\e901";
+}
+.icon-book_bookcase_bookshelf_furniture_library_icon:before {
+  content: "\e902";
+}
+.icon-phone:before {
+  content: "\e95a";
+}
+.icon-close:before {
+  content: "\e95b";
+}
+.icon-cosmetic:before {
+  content: "\e95c";
+}
+.icon-facebook:before {
+  content: "\e95d";
+}
+.icon-instagram:before {
+  content: "\e95e";
+}
+.icon-mail:before {
+  content: "\e95f";
+}
+.icon-map-pin:before {
+  content: "\e960";
+}
+.icon-menu:before {
+  content: "\e961";
+}
+.icon-trim:before {
+  content: "\e962";
+}
+.icon-whatsapp:before {
+  content: "\e963";
+}
+.icon-woman-hair:before {
+  content: "\e964";
+}
+.icon-youtube:before {
+  content: "\e965";
+}
+.icon-home:before {
+  content: "\e966";
+}
+.icon-library:before {
+  content: "\e959";
+}
+.icon-hammer:before {
+  content: "\e996";
+}
+.icon-list:before {
+  content: "\e9ba";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-make-group:before {
+  content: "\ea58";
+}
